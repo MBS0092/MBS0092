@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbs0092&label=Profile%20views&color=0e75b6&style=flat" alt="mbs0092" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbs0092" alt="mbs0092" /></a> </p>
-
 - 🔭 I’m currently working on **Website Developement**
 
 - 🌱 I’m currently learning **Artifical Intellegence and Data Science**
@@ -20,6 +18,8 @@
 - 📄 Know about my experiences [https://sites.google.com/view/mbs0092/projects](https://sites.google.com/view/mbs0092/projects)
 
 - ⚡ Fun fact **I think I am Diamond**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbs0092" alt="mbs0092" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
