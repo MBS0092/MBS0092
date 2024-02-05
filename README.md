@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am Diamond**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbs0092" alt="mbs0092" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
